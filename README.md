@@ -5,8 +5,9 @@
 >PC端浏打开:
 https://root-lucas.github.io/PSD-HTML/index.html
 
->移动端扫描二维码预览
+>移动端扫描二维码预览   
+
 ![san](https://raw.githubusercontent.com/root-lucas/PSD-HTML/master/img/QR-Code.png)
 
 ## 原PSD网页设计图
-！[san](https://raw.githubusercontent.com/root-lucas/PSD-HTML/master/img/picture.png)
+![san](https://raw.githubusercontent.com/root-lucas/PSD-HTML/master/img/picture.png)
